@@ -1,0 +1,12 @@
+# temporary files, log files
+*.log
+
+#images
+*.png
+
+# big outputs
+*.nc
+*.mat
+
+# Stupid Mac files
+.DS_Store
