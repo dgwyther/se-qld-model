@@ -17,3 +17,9 @@ __pycache__/
 
 # workspace for VS code
 *.code-workspace
+
+# python junk
+*.pyc
+.ipynb_checkpoints
+
+
